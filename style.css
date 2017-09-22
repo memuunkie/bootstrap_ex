@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Watermelon; src: url("WatermelonSundae.ttf");
+}
+
+.container-fluid {
+    background-color: #00b300;
+    font-family: Watermelon;
+    color: white;
+    background-color: purple;
+}
+
+a {
+    font-family: Watermelon;
+    font-size: 20px;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    color: #009900;
+}
+
+img {
+    box-shadow: 10px 10px 5px #000000;
+}
+
+body {
+    font-family: Watermelon;
+    color: white;
+    background-image: url("glitter.jpg");
+}
